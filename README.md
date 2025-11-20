@@ -21,3 +21,11 @@ HerVoice is a platform designed to amplify women’s voices, empower communities
 ---
 
 ## 📂 Project Structure
+lib/
+  main.dart              # Entry point
+  screens/               # UI pages
+  services/              # Firebase & messaging services
+  theme/                 # App theme and styles
+android/                 # Native Android setup
+ios/                     # Native iOS setup
+web/                     # Web assets
