@@ -1,20 +1,23 @@
-HEAD
-# her-voice
-An flutter app for empowering women
-# her_voice
+# HerVoice
 
-A new Flutter project.
+HerVoice is a platform designed to amplify women’s voices, empower communities, and align with SDG 5 (Gender Equality). Built with Flutter, Firebase, and cross-platform support, it integrates advocacy, mentorship, and awareness features.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📢 Awareness page for campaigns and resources
+- 🤝 Mentorship page connecting women with leaders
+- 📝 Reporting page for safe, anonymous submissions
+- 🔐 Firebase authentication for secure sign-in/sign-up
+- 🎨 Custom app theme for consistent branding
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase (Auth, Firestore, Cloud Messaging)
+- **Platforms:** Android, iOS, Web, Windows, macOS, Linux
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 57b41e4 (Initial commit: HerVoice project setup)
+---
+
+## 📂 Project Structure
