@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919163114404",
+    "project_id": "hervoice-81bdf",
+    "storage_bucket": "hervoice-81bdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919163114404:android:54ce93cd9da610e7f16731",
+        "android_client_info": {
+          "package_name": "com.example.her_voice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8g-02_Ba-9DG1wvH0xwkRGdWkRPNMF0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
